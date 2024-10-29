@@ -130,7 +130,7 @@
   </SerializableParameter>
   <SerializableParameter>
     <Address>32</Address>
-    <Value>0</Value>
+    <Value>1500</Value>
   </SerializableParameter>
   <SerializableParameter>
     <Address>33</Address>
@@ -198,7 +198,7 @@
   </SerializableParameter>
   <SerializableParameter>
     <Address>49</Address>
-    <Value>0</Value>
+    <Value>1500</Value>
   </SerializableParameter>
   <SerializableParameter>
     <Address>50</Address>
@@ -1222,19 +1222,19 @@
   </SerializableParameter>
   <SerializableParameter>
     <Address>1840</Address>
-    <Value>0</Value>
+    <Value>1552</Value>
   </SerializableParameter>
   <SerializableParameter>
     <Address>1841</Address>
-    <Value>0</Value>
+    <Value>8196</Value>
   </SerializableParameter>
   <SerializableParameter>
     <Address>1842</Address>
-    <Value>0</Value>
+    <Value>1040</Value>
   </SerializableParameter>
   <SerializableParameter>
     <Address>1843</Address>
-    <Value>0</Value>
+    <Value>8196</Value>
   </SerializableParameter>
   <SerializableParameter>
     <Address>1844</Address>
@@ -1254,7 +1254,7 @@
   </SerializableParameter>
   <SerializableParameter>
     <Address>1848</Address>
-    <Value>0</Value>
+    <Value>2</Value>
   </SerializableParameter>
   <SerializableParameter>
     <Address>1849</Address>
