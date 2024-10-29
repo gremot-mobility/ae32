@@ -226,11 +226,11 @@
   </SerializableParameter>
   <SerializableParameter>
     <Address>56</Address>
-    <Value>250</Value>
+    <Value>500</Value>
   </SerializableParameter>
   <SerializableParameter>
     <Address>57</Address>
-    <Value>42</Value>
+    <Value>41</Value>
   </SerializableParameter>
   <SerializableParameter>
     <Address>58</Address>
